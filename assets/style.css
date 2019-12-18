@@ -74,6 +74,12 @@
   float: right;
 }
 
+#aaronealdama {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
 .heading3 {
   margin: 10px;
 }
