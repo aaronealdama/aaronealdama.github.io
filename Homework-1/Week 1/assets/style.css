@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Alegreya Sans SC", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  justify-content: center;
+  text-align: center;
+  width: 960px;
+  font-family: "Alegreya Sans SC", sans-serif;
+  background-color: white;
+}
+
+#banner {
+  height: 55px;
+  width: 150px;
+  background-color: #c72c2c;
+  font-size: 10px;
+  position: sticky;
+  padding-top: 10px;
+  float: left;
+  color: #d4cdcd;
+}
+
+.sticky-wrapper {
+  background-color: #f36666;
+  height: 8vh;
+  width: 100%;
+  position: sticky;
+  padding: 20px;
+}
+
+.para {
+  line-height: 40px;
+  font-size: 20px;
+  margin: 10px;
+  font-family: "Alegreya Sans SC", sans-serif;
+}
+
+.about {
+  margin: 20px;
+  text-decoration: underline;
+}
+
+.link {
+  text-decoration: none;
+  color: #d4cdcd;
+  height: 30px;
+  width: 50px;
+  border: 1px solid #ed2d67;
+  margin: 10px;
+}
+
+.contact-page {
+  margin: 20px;
+}
+
+.portfolio-page {
+  margin: 20px;
+}
+
+#codingbootcamp {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+#michigansnow {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.heading3 {
+  margin: 10px;
+}
+
+.block {
+  margin: 20px;
+}
+
+.footer {
+  height: 8vh;
+  width: 100%;
+  background-color: #f36666;
+}
+
+.copyright {
+  color: #d4cdcd;
+}
+
+html,
+body {
+  background-image: url("../images/greek-vase.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
