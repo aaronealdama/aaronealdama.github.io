@@ -94,7 +94,7 @@
 
 html,
 body {
-  background-image: url("../images/greek-vase.png");
+  background-image: url("./images/greek-vase.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
